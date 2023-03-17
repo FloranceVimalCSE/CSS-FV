@@ -4,7 +4,6 @@
   p {color:red;}
 </style>
 the above code changes the color of text whenever present inside a para tag
-
 Creating a class:
 <h2 class="red-text"> ->creates class
 
